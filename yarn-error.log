@@ -1,0 +1,32 @@
+Arguments: 
+  /Users/fullstuckdeveloper/.nvm/versions/node/v14.15.0/bin/node /usr/local/Cellar/yarn/1.22.10/libexec/bin/yarn.js add --dev @babel/cli @babel/core @babel/preset-env
+
+PATH: 
+  /Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/bin:/Users/fullstuckdeveloper/.nvm/versions/node/v14.15.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/bin:/Users/fullstuckdeveloper/.nvm/versions/node/v14.15.0/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.15.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
+
+npm manifest: 
+  {
+    "name": "typescript",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
